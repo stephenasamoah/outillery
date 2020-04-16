@@ -2,7 +2,8 @@ import React from 'react';
 import './shop.styles.scss';
 import { ShopItem } from '../../utilities/_models/shop-item.model';
 import SHOP_DATA from '../../utilities/_data/shop.data';
-import CollectionsPreviewComponent from '../../components/collections-preview/collections-preview.component';
+import CollectionsPreviewComponent
+    from '../../components/collections/collections-preview/collections-preview.component';
 
 interface State {
     collections: ShopItem[]
@@ -23,11 +24,10 @@ class ShopPage extends React.Component<any, State> {
         return (
             <div className="shop-page">
                 {
-                    collections.filter((c, i) => i < 4)
-                        .map(({ id, ...collectionsProps }) => (
-                            <CollectionsPreviewComponent
-                                key={ id } { ...collectionsProps }/>
-                        ))
+                    collections.map(({ id, ...collectionsProps }) => (
+                        <CollectionsPreviewComponent
+                            key={ id } { ...collectionsProps }/>
+                    ))
                 }
             </div>
         );

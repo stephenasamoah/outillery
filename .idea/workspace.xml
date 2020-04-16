@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2aa8e8b-a70a-438e-98d4-b100cc5718f4" name="Default Changelist" comment="#### App&#10;- Created .env file">
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/collections-preview/collections-preview.component.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/collections-preview/collections-preview.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/pages/shop/shop.component.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/pages/shop/shop.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/utilities/_data/shop.data.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/utilities/_models/shop-item.model.ts" afterDir="false" />
+    <list default="true" id="f2aa8e8b-a70a-438e-98d4-b100cc5718f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/collections/collection-item/collection-item.component.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/collections/collection-item/collection-item.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/directory-menu/directory-menu.component.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/directory-menu/directory-menu.component.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/utilities/_models/section.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/utilities/_models/section.model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/utilities/sections.data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/utilities/_data/sections.data.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/collections-preview/collections-preview.component.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/collections/collections-preview/collections-preview.component.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/collections-preview/collections-preview.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/collections/collections-preview/collections-preview.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/pages/shop/shop.component.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/pages/shop/shop.component.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="11434" />
+    <option name="totalTimeSeconds" value="12946" />
     <option name="gitIntegration" value="true" />
     <option name="naggedAbout" value="1" />
   </component>
@@ -86,11 +78,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="com.scss.settings.ScssLintSettingsPage" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
     <property name="ts.external.directory.path" value="E:\3. ULTIMATE\JetBrainsCatalog\WebStormProjects\1. TutWorks\1. React\outillery\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\3. ULTIMATE\JetBrainsCatalog\WebStormProjects\1. TutWorks\1. React\outillery\src\components\collections" />
       <recent name="E:\3. ULTIMATE\JetBrainsCatalog\WebStormProjects\1. TutWorks\1. React\outillery\src\utilities\_data" />
       <recent name="E:\3. ULTIMATE\JetBrainsCatalog\WebStormProjects\1. TutWorks\1. React\outillery\src\utilities" />
     </key>
@@ -122,7 +115,7 @@
       <updated>1586962186325</updated>
       <workItem from="1586962190244" duration="3777000" />
       <workItem from="1586970887987" duration="8730000" />
-      <workItem from="1587001481369" duration="8474000" />
+      <workItem from="1587001481369" duration="10355000" />
     </task>
     <task id="LOCAL-00001" summary="#### Pages&#10;- Created home page&#10;&#10;#### Components&#10;- Created components for directory-menu and menu items&#10;&#10;#### App&#10;- Added new models and utilties">
       <created>1586996030585</created>
@@ -131,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586996030585</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="#### App&#10;- Initialised BrowserRouter in root of application&#10;- Added Switch and Routes for Home and shop pages&#10;&#10;#### Shop&#10;- Added shop page and collection-preview">
+      <created>1587044478980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587044478980</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,17 +139,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#### Pages&#10;- Created home page&#10;&#10;#### Components&#10;- Created components for directory-menu and menu items&#10;&#10;#### App&#10;- Added new models and utilties" />
-    <option name="LAST_COMMIT_MESSAGE" value="#### Pages&#10;- Created home page&#10;&#10;#### Components&#10;- Created components for directory-menu and menu items&#10;&#10;#### App&#10;- Added new models and utilties" />
+    <MESSAGE value="#### App&#10;- Initialised BrowserRouter in root of application&#10;- Added Switch and Routes for Home and shop pages&#10;&#10;#### Shop&#10;- Added shop page and collection-preview" />
+    <option name="LAST_COMMIT_MESSAGE" value="#### App&#10;- Initialised BrowserRouter in root of application&#10;- Added Switch and Routes for Home and shop pages&#10;&#10;#### Shop&#10;- Added shop page and collection-preview" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="510" y="0" key="CommitChangelistDialog2" timestamp="1586998515407">
+    <state x="510" y="0" key="CommitChangelistDialog2" timestamp="1587044476328">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="510" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586998515407" />
+    <state x="510" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587044476328" />
     <state x="739" y="280" key="FileChooserDialogImpl" timestamp="1586963525175">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="739" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586963525175" />
+    <state x="836" y="427" key="Github.ShareDialog" timestamp="1587044820629">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="836" y="427" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587044820629" />
     <state width="1877" height="259" key="GridCell.Tab.0.bottom" timestamp="1586962772414">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -170,6 +175,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="540" y="260" key="IDE.errors.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586970919855" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1587045502471">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587045502471" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1587044484396">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587044484396" />
     <state x="668" y="218" width="583" height="614" key="find.popup" timestamp="1586998535581">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -178,9 +191,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="600" y="0" width="598" height="1048" key="recent.locations.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586998517353" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1587004250321">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1587046305577">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587004250321" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587046305577" />
   </component>
 </project>

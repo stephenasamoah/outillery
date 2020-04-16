@@ -1,7 +1,7 @@
 import React from 'react';
 import './collections-preview.styles.scss';
-import { ShopItem } from '../../utilities/_models/shop-item.model';
-import { Section } from '../../utilities/_models/section.model';
+import { ShopItem } from '../../../utilities/_models/shop-item.model';
+import CollectionItemComponent from '../collection-item/collection-item.component';
 
 const CollectionsPreviewComponent = ({ title, items }: ShopItem) => {
     return (
@@ -9,9 +9,10 @@ const CollectionsPreviewComponent = ({ title, items }: ShopItem) => {
             <h1 className="title">{ title?.toUpperCase() }</h1>
             <div className="preview">
                 {
-                    items?.map(({ id, name }: Section) => (
-                        <div key={ id }>{ name }</div>
-                    ))
+                    items?.filter((c, i) => i < 4)
+                        .map((item) => (
+                            <CollectionItemComponent key={ item.id } item={ item }/>
+                        ))
                 }
             </div>
         </div>
