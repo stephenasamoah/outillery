@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2aa8e8b-a70a-438e-98d4-b100cc5718f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/directory-menu/directory-menu.component.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/directory-menu/directory-menu.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/menu-item/menu-item.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/menu-item/menu-item.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/pages/homepage/homepage.component.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/pages/homepage/homepage.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/utilities/_models/base.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/utilities/_models/section.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/utilities/sections.data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DarkyenusTimeTracker">
+    <option name="totalTimeSeconds" value="4891" />
+  </component>
   <component name="FileColors">
     <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
     <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
     <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="JsFlowSettings">
@@ -15,15 +50,103 @@
     <annotation-enable>false</annotation-enable>
     <other-services-enabled>false</other-services-enabled>
   </component>
+  <component name="NamedScopeManager">
+    <scope name="Git Scope" pattern="" />
+  </component>
+  <component name="ProjectId" id="1aa88k6MSGUDALU2Q0gRj2HHOOJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.11.1" />
     <property name="last_opened_file_path" value="C:/tools/ruby25/bin/scss-lint.bat" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="com.scss.settings.ScssLintSettingsPage" />
+    <property name="ts.external.directory.path" value="E:\3. ULTIMATE\JetBrainsCatalog\WebStormProjects\1. TutWorks\1. React\outillery\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\3. ULTIMATE\JetBrainsCatalog\WebStormProjects\1. TutWorks\1. React\outillery\src\utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2aa8e8b-a70a-438e-98d4-b100cc5718f4" name="Default Changelist" comment="" />
+      <created>1586962186325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586962186325</updated>
+      <workItem from="1586962190244" duration="3777000" />
+      <workItem from="1586970887987" duration="4650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="280" key="FileChooserDialogImpl" timestamp="1586963525175">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586963525175" />
+    <state width="1877" height="259" key="GridCell.Tab.0.bottom" timestamp="1586962772414">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586962772414" />
+    <state width="1877" height="259" key="GridCell.Tab.0.center" timestamp="1586962772414">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586962772414" />
+    <state width="1877" height="259" key="GridCell.Tab.0.left" timestamp="1586962772414">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586962772414" />
+    <state width="1877" height="259" key="GridCell.Tab.0.right" timestamp="1586962772414">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586962772414" />
+    <state x="540" y="260" key="IDE.errors.dialog" timestamp="1586970919855">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="260" key="IDE.errors.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586970919855" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1586974686752">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586974686752" />
   </component>
 </project>
