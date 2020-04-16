@@ -1,5 +1,5 @@
 import React from 'react';
-import { sections } from '../../utilities/sections.data';
+import { SECTIONS } from '../../utilities/_data/sections.data';
 import { Section } from '../../utilities/_models/section.model';
 import MenuItem from '../menu-item/menu-item';
 import './directory-menu.styles.scss';
@@ -13,10 +13,8 @@ class DirectoryMenu extends React.Component<{}, State> {
         super(props);
 
         this.state = {
-            sections: sections
+            sections: SECTIONS
         };
-
-        console.log(props);
     }
 
     render(): React.ReactNode {
@@ -24,8 +22,8 @@ class DirectoryMenu extends React.Component<{}, State> {
         return (
             <ul className="directory-menu">
                 {
-                    sections.map(({ id, title, imageUrl, size }) => (
-                        <MenuItem key={ id } title={ title } size={ size } imageUrl={ imageUrl }/>
+                    sections.map(({ id, ...sectionsProps }) => (
+                        <MenuItem key={ id } { ...sectionsProps }/>
                     ))
                 }
             </ul>

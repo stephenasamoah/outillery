@@ -1,11 +1,11 @@
-import { Section } from './_models/section.model';
+import { Section } from '../_models/section.model';
 
-export const sections: Section[] = [
+export const SECTIONS: Section[] = [
     {
         id: 1,
         title: 'hats',
         imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
-        size: ''
+        size: '',
     },
     {
         id: 2,

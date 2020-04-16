@@ -1,7 +1,6 @@
-import { BaseModel } from './base.model';
+import { ShopItem } from './shop-item.model';
 
-export interface Section extends BaseModel {
-    title?: string;
-    imageUrl?: string;
+export interface Section extends ShopItem {
     size?: string;
+    price?: number;
 }
