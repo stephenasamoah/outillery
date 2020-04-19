@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2aa8e8b-a70a-438e-98d4-b100cc5718f4" name="Default Changelist" comment="#### Auth&#10;- Initialised UI for login and signup components&#10;&#10;#### Components&#10;- Implemented FormInput FC&#10;- Implemented CustomButton SFC">
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/assets/stylesheets/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/auth/login/login.component.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/auth/login/login.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/auth/signup/signup.component.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/auth/signup/signup.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/form/custom-button/custom-botton.component.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/form/custom-button/custom-button.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/form/form-input/form-input.component.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/form/form-input/form-input.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/pages/auth/auth.component.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/pages/auth/auth.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/utilities/_models/auth.model.ts" afterDir="false" />
+    <list default="true" id="f2aa8e8b-a70a-438e-98d4-b100cc5718f4" name="Default Changelist" comment="#### Auth&#10;- Initialised firebase and firestore&#10;- Implemented Google sign-in&#10;- Added react-feather icons">
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/firebase/firebase-utils.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/utilities/_models/user.model.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/auth/login/login.component.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/auth/login/login.component.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/auth/login/login.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/auth/login/login.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/form/custom-button/custom-botton.component.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/form/custom-button/custom-botton.component.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/form/custom-button/custom-button.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/form/custom-button/custom-button.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/header/header.component.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/header/header.component.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/header/header.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/src/components/header/header.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../WebStormProjects/1. TutWorks/1. React/outillery/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="28334" />
+    <option name="totalTimeSeconds" value="34575" />
     <option name="gitIntegration" value="true" />
     <option name="naggedAbout" value="1" />
   </component>
@@ -39,8 +35,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="TypeScript JSX File" />
         <option value="SCSS File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -128,7 +124,8 @@
       <workItem from="1586970887987" duration="8730000" />
       <workItem from="1587001481369" duration="30575000" />
       <workItem from="1587223257203" duration="599000" />
-      <workItem from="1587228182429" duration="7931000" />
+      <workItem from="1587228182429" duration="15902000" />
+      <workItem from="1587327466437" duration="3576000" />
     </task>
     <task id="LOCAL-00001" summary="#### Pages&#10;- Created home page&#10;&#10;#### Components&#10;- Created components for directory-menu and menu items&#10;&#10;#### App&#10;- Added new models and utilties">
       <created>1586996030585</created>
@@ -158,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587080527795</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="#### Auth&#10;- Initialised UI for login and signup components&#10;&#10;#### Components&#10;- Implemented FormInput FC&#10;- Implemented CustomButton SFC">
+      <created>1587255016782</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587255016783</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,17 +173,18 @@
     <MESSAGE value="#### App&#10;- Initialised BrowserRouter in root of application&#10;- Added Switch and Routes for Home and shop pages&#10;&#10;#### Shop&#10;- Added shop page and collection-preview" />
     <MESSAGE value="#### App&#10;- UI fixes and improvements&#10;&#10;#### Collection&#10;- Added collection-item component to render respective items.&#10;- Moved truncating of collection categories to actual collection items" />
     <MESSAGE value="#### Header&#10;- Created header component, including logo&#10;- Added routes for homepage, shop, contact and signin." />
-    <option name="LAST_COMMIT_MESSAGE" value="#### Header&#10;- Created header component, including logo&#10;- Added routes for homepage, shop, contact and signin." />
+    <MESSAGE value="#### Auth&#10;- Initialised UI for login and signup components&#10;&#10;#### Components&#10;- Implemented FormInput FC&#10;- Implemented CustomButton SFC" />
+    <option name="LAST_COMMIT_MESSAGE" value="#### Auth&#10;- Initialised UI for login and signup components&#10;&#10;#### Components&#10;- Implemented FormInput FC&#10;- Implemented CustomButton SFC" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="166" key="#Plugins" timestamp="1587228209463">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="166" key="#Plugins/0.0.1920.1050@0.0.1920.1050" timestamp="1587228209463" />
-    <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1587254462529">
+    <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1587329255691">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="335" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587254462529" />
+    <state x="335" y="0" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1587329255691" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1587252201561">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -208,29 +213,29 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="259" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586962772414" />
-    <state x="540" y="260" key="IDE.errors.dialog" timestamp="1587228201677">
+    <state x="540" y="260" key="IDE.errors.dialog" timestamp="1587327503711">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="540" y="260" key="IDE.errors.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587228201677" />
-    <state x="461" y="170" key="SettingsEditor" timestamp="1587130353197">
+    <state x="540" y="260" key="IDE.errors.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587327503711" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1587316493024">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587130353197" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1587047013370">
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587316493024" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1587255019594">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587047013370" />
-    <state x="668" y="218" width="583" height="614" key="find.popup" timestamp="1587251730067">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1587255019594" />
+    <state x="668" y="218" width="583" height="614" key="find.popup" timestamp="1587330430491">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="668" y="218" width="583" height="614" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587251730067" />
+    <state x="668" y="218" width="583" height="614" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587330430491" />
     <state x="600" y="0" width="598" height="1048" key="recent.locations.popup" timestamp="1586998517353">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="600" y="0" width="598" height="1048" key="recent.locations.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586998517353" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1587251920019">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1587330959207">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587251920019" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587330959207" />
   </component>
 </project>
